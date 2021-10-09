@@ -1,3 +1,8 @@
+/*
+    Problem: Investigation (LightOJ-1068)
+    Topic: Digit DP
+    
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
